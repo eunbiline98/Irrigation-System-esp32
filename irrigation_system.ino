@@ -2,9 +2,9 @@
 #include <PubSubClient.h>
 #include <Adafruit_NeoPixel.h>
 
-const char* ssid = "pandawa";
-const char* password = "Werkud4r@";
-const char* MQTT_SERVER = "192.168.1.105";
+const char* ssid = "********";
+const char* password = "********";
+const char* MQTT_SERVER = "********";
 const char* MQTT_CONTROL_TOPIC = "irrigation/esp/control";
 const char* MQTT_BRIGHTNESS_TOPIC = "irrigation/esp/brightness";
 
