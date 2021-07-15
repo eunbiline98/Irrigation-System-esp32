@@ -27,7 +27,7 @@ This tool can still be developed by adding a humidity sensor or other features, 
 ![Screenshot (86)](https://user-images.githubusercontent.com/50385294/125792372-ef6b7ec9-4fc3-4e62-bc7c-0bc12f1a1833.png) 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-ye5VCS3sqQ"/0.jpg)](https://www.youtube.com/watch?v=-ye5VCS3sqQ")
+[![IMAGE ALT TEXT HERE](//img.youtube.com/vi/-ye5VCS3sqQ"/0.jpg)](//www.youtube.com/watch?v=-ye5VCS3sqQ")
 
 
 
