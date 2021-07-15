@@ -24,15 +24,11 @@ This tool can still be developed by adding a humidity sensor or other features, 
 
 # Documentation
 ![Screenshot (78)](https://user-images.githubusercontent.com/50385294/125792180-91e5ff10-d846-466e-a79c-ff0c31d61c52.png)
-![Screenshot (86)](https://user-images.githubusercontent.com/50385294/125792372-ef6b7ec9-4fc3-4e62-bc7c-0bc12f1a1833.png) 
+<!-- ![Screenshot (86)](https://user-images.githubusercontent.com/50385294/125792372-ef6b7ec9-4fc3-4e62-bc7c-0bc12f1a1833.png)  -->
 
 
-[![IMAGE ALT TEXT HERE](//img.youtube.com/vi/-ye5VCS3sqQ"/0.jpg)](//www.youtube.com/watch?v=-ye5VCS3sqQ")
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/50385294/125792372-ef6b7ec9-4fc3-4e62-bc7c-0bc12f1a1833.png)](https://www.youtube.com/watch?v=-ye5VCS3sqQ")
+
 
 
 
