@@ -29,6 +29,8 @@ This tool can still be developed by adding a humidity sensor or other features, 
 
 [![IMAGE ALT TEXT HERE](//img.youtube.com/vi/-ye5VCS3sqQ"/0.jpg)](//www.youtube.com/watch?v=-ye5VCS3sqQ")
 
+[![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 
 
