@@ -1,8 +1,27 @@
 # Irrigation-System-esp32
 
-- Mqtt protocol 
-- Home Assistant
+This system is very simple, which can control the pump for irrigation to plants, can control the super white led lights and also control the blue light ws2812 led strip
+This tool can still be developed by adding a humidity sensor or other features, and AI
 
+# Hardware
+- esp-32
+- Relay Module 2 CH
+- Led Strip WS2812 ( 1 Meters )
+- PSU 5V 3A
+
+# Software
+- Arduino IDE
+- Node-Red
+- Mqttbox
+- HomeAssistant
+
+# Fiture
 - control on/off relay lamp
 - control on/off relay pump
 - control on/off led strip ws2812 (blue colour)
+- Home Assistant Control
+- Mqtt Support
+
+# Documentation
+![Screenshot (78)](https://user-images.githubusercontent.com/50385294/125792180-91e5ff10-d846-466e-a79c-ff0c31d61c52.png)
+
