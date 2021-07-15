@@ -4,7 +4,7 @@ This system is very simple, which can control the pump for irrigation to plants,
 This tool can still be developed by adding a humidity sensor or other features, and AI
 
 # Hardware
-- esp-32
+- Esp-32
 - Relay Module 2 CH
 - Led Strip WS2812 ( 1 Meters )
 - PSU 5V 3A
