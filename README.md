@@ -35,6 +35,7 @@ https://img.youtube.com/vi/<VIDEO ID>/0.jpg
          wmode="transparent" width="425" height="350" />
 </object>
 
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-ye5VCS3sqQ"/0.jpg)](https://www.youtube.com/watch?v=-ye5VCS3sqQ")
 
 
 
