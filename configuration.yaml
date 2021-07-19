@@ -1,0 +1,41 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+# Example configuration.yaml entry
+mqtt:
+  broker: "192.168.1.105"
+  port: 8883
+  username: "esp32"
+  password: admin
+
+switch:
+  - platform: mqtt
+    name: "Lamp switch"
+    state_topic: "irrigation/esp/control"
+    command_topic: "irrigation/esp/control"
+    payload_on: "on1"
+    payload_off: "off1"
+    
+  - platform: mqtt
+    name: "Lamp switch"
+    state_topic: "irrigation/esp/control"
+    command_topic: "irrigation/esp/control"
+    payload_on: "on2"
+    payload_off: "off2"
+    
+  - platform: mqtt
+    name: "Lamp switch"
+    state_topic: "irrigation/esp/control"
+    command_topic: "irrigation/esp/control"
+    payload_on: "on3"
+    payload_off: "off3"
