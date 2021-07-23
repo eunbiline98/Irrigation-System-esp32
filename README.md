@@ -9,7 +9,7 @@ This tool can still be developed by adding a humidity sensor or other features, 
 - Led Strip WS2812 ( 1 Meters )
 - PSU 5V 5A
 
-# Schematic 
+# Wiring Diagram
 ![irrigation system schematic](https://user-images.githubusercontent.com/50385294/126747291-d8069e3a-5a73-4a41-b011-0e55289510be.png)
 
 # Software
